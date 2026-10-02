@@ -1,7 +1,7 @@
 ## Hi, I'm Vasilis
 
 **Software Developer at [APT Information Systems SA](https://www.apt.gr) since 2023.**
-I started with the database side and built strong experience in **Oracle PL/SQL** and **Oracle APEX**. Lately I work on full-stack enterprise projects that combine a **backend**, a **frontend** and an **Oracle database**. In parallel I am training as a **Java backend developer** at **Coding Factory 10 (AUEB)**.
+I started with the database side and built strong experience in **Oracle PL/SQL** and **Oracle APEX**. Lately I work on full-stack enterprise projects that combine a **backend**, a **frontend** and an **Oracle database**. I hold a degree in **Informatics & Telecommunications** (University of Peloponnese) and I have completed the **Coding Factory 10** program (AUEB), focused on **Java & Spring Boot** backend development.
 
 ### What I do at work
 
