@@ -1,15 +1,25 @@
 ## Hi, I'm Vasilis
 
-Aspiring **Java backend developer** currently training at **Coding Factory 10 (AUEB)**.
-I build REST APIs and server-side web apps with **Java & Spring Boot**, and I also work with **C#**, **JavaScript** and **HTML/CSS**.
+**Software Developer at [APT Information Systems SA](https://www.apt.gr) since 2023.**
+I started with the database side and built strong experience in **Oracle PL/SQL** and **Oracle APEX**. Lately I work on full-stack enterprise projects that combine a **backend**, a **frontend** and an **Oracle database**. In parallel I am training as a **Java backend developer** at **Coding Factory 10 (AUEB)**.
+
+### What I do at work
+
+- Design and maintain **Oracle** schemas: DDL, migrations, views and **PL/SQL packages** for business logic
+- Build **Oracle APEX** applications
+- Develop **REST APIs** in **Kotlin / Quarkus** with JPA/Hibernate (Panache) on top of Oracle
+- Build **Vue 3** frontends with Vuetify, Pinia, Vue Router and i18n
+- Work on production-management features such as production orders, planning, barcode scanning, label printing (ZPL), reports and dashboards
+- Integrate with external systems (ERP, MES, report servers) over REST
+- Use Git, GitLab CI and Docker for development and deployment
 
 ### Tech stack
 
-**Languages:** Java 21 · C# (.NET) · JavaScript · SQL · HTML5 · CSS3
-**Backend:** Spring Boot · Spring Web MVC · Spring Data JPA / Hibernate · Spring Security (JWT) · Bean Validation · Thymeleaf · JDBC / HikariCP · OpenAPI
-**Databases:** MySQL · H2 · Flyway migrations
-**Frontend:** DOM & events · Fetch API · Axios · jQuery · Flexbox
-**Tools:** Git & GitHub · Gradle · Maven · Docker / docker-compose · IntelliJ IDEA · VS Code · DBeaver · MySQL Workbench
+**Database:** Oracle · PL/SQL · Oracle APEX · SQL · MySQL · H2 · Flyway
+**Backend:** Kotlin · Quarkus · Java 21 · Spring Boot · Spring Web MVC · Spring Data JPA / Hibernate · Spring Security (JWT) · Bean Validation · Thymeleaf · JDBC · OpenAPI
+**Frontend:** Vue 3 · Vuetify · Pinia · Vite · JavaScript · Axios · Chart.js · HTML5 · CSS3 / Sass
+**Other languages:** C# (.NET)
+**Tools:** Git · GitHub / GitLab CI · Gradle · Maven · Docker · IntelliJ IDEA · VS Code · DBeaver
 
 ### Featured projects
 
@@ -22,6 +32,4 @@ I build REST APIs and server-side web apps with **Java & Spring Boot**, and I al
 | [javascript-exercises](https://github.com/basiliskm/javascript-exercises) | JavaScript from basics to DOM, AJAX and small MVC apps (notes, counter, movies) |
 | [html-css-exercises](https://github.com/basiliskm/html-css-exercises) | HTML structure, CSS styling, typography and Flexbox |
 
-### Currently learning
-
-Spring Boot in depth · REST API design & security · Clean architecture (DTOs, services, repositories) · Docker
+*My work projects at APT are private, so they are not listed here.*
